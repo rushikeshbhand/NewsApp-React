@@ -1,8 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-![Uploading Screenshot (35).png…]()
 
+
+![Uploading newsapp.jpeg.png…]()
 
 ## Available Scripts
 
