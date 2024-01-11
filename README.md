@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Uploading newsapp.jpeg.png…]()
 
+![Uploading newsapp.jpeg.png…]()
+
 
 ## Available Scripts
 
