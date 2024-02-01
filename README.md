@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![newsapp jpeg](https://github.com/rushikeshbhand/NewsApp-React/assets/112516622/f6a42805-0c45-441d-9682-74ee6c86714e)
+
 
 ## Available Scripts
 
